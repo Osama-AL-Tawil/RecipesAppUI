@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff3434"/>
+      <stop offset="1" stop-color="#db2732"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fa4b4b"/>
+      <stop offset="1" stop-color="#dc3c46"/>
+    </linearGradient>
+    <clipPath id="clip-_1_Splash_Screen_5">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="_1_Splash_Screen_5" data-name="1_Splash Screen – 5" clip-path="url(#clip-_1_Splash_Screen_5)">
+    <rect width="375" height="812" fill="#fff"/>
+    <g id="Navbar">
+      <g id="Bars_Status_Bar_-_iPhone_X_On_Light" data-name="Bars/Status Bar - iPhone X/On Light" transform="translate(21 14.33)">
+        <g id="Battery" transform="translate(315 3.003)">
+          <g id="Border" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1" opacity="0.35">
+            <rect width="22" height="11.333" rx="2.667" stroke="none"/>
+            <rect x="0.5" y="0.5" width="21" height="10.333" rx="2.167" fill="none"/>
+          </g>
+          <path id="Cap" d="M0,0V4A2.17,2.17,0,0,0,1.328,2,2.17,2.17,0,0,0,0,0" transform="translate(23 3.667)" fill="#fff" opacity="0.4"/>
+          <rect id="Capacity" width="18" height="7.333" rx="1.333" transform="translate(2 2)" fill="#fff"/>
+        </g>
+        <path id="Wifi" d="M7.637,10.966a.313.313,0,0,1-.221-.093l-2-2.016a.313.313,0,0,1,.01-.456,3.421,3.421,0,0,1,4.419,0,.311.311,0,0,1,.1.226.315.315,0,0,1-.094.23l-2,2.016A.308.308,0,0,1,7.637,10.966Zm3.508-3.538a.312.312,0,0,1-.214-.085,4.9,4.9,0,0,0-6.585,0,.312.312,0,0,1-.214.085.308.308,0,0,1-.22-.091L2.758,6.17a.322.322,0,0,1,0-.459,7.158,7.158,0,0,1,9.752,0,.322.322,0,0,1,.1.229.326.326,0,0,1-.094.23L11.364,7.337A.309.309,0,0,1,11.145,7.428ZM13.8,4.743a.3.3,0,0,1-.214-.087,8.64,8.64,0,0,0-11.907,0,.3.3,0,0,1-.214.087.308.308,0,0,1-.22-.091L.094,3.486a.322.322,0,0,1,0-.456,10.9,10.9,0,0,1,15.08,0,.325.325,0,0,1,.1.228.319.319,0,0,1-.094.229L14.023,4.652A.307.307,0,0,1,13.8,4.743Z" transform="translate(294.694 3.001)" fill="#fff"/>
+        <path id="Cellular_Connection" data-name="Cellular Connection" d="M16,10.667H15a1,1,0,0,1-1-1V1a1,1,0,0,1,1-1h1a1,1,0,0,1,1,1V9.667A1,1,0,0,1,16,10.667Zm-4.667,0h-1a1,1,0,0,1-1-1V3.334a1,1,0,0,1,1-1h1a1,1,0,0,1,1,1V9.667A1,1,0,0,1,11.334,10.667Zm-4.667,0h-1a1,1,0,0,1-1-1v-4a1,1,0,0,1,1-1h1a1,1,0,0,1,1,1v4A1,1,0,0,1,6.666,10.667ZM2,10.667H1a1,1,0,0,1-1-1v-2a1,1,0,0,1,1-1H2a1,1,0,0,1,1,1v2A1,1,0,0,1,2,10.667Z" transform="translate(272.667 3.337)" fill="#fff"/>
+        <g id="Time_Style" data-name="Time Style">
+          <text id="_Time" data-name="↳ Time" fill="#fff" font-size="15" font-family="SFProText-Regular, SF Pro Text" letter-spacing="-0.02em"><tspan x="12.194" y="14">9:41</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="color_primary_3_copy_5" data-name="color/primary 3 copy 5" transform="translate(0 -40)">
+      <path id="color_primary_copy" data-name="color/primary copy" d="M0,0H375V812H0Z" transform="translate(0 40)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Circle" transform="translate(12 402)">
+      <circle id="Circle_4" data-name="Circle 4" cx="64" cy="64" r="64" transform="translate(124 140)" fill="url(#linear-gradient-2)"/>
+      <circle id="Circle_2" data-name="Circle 2" cx="18.5" cy="18.5" r="18.5" transform="translate(216 233)" fill="url(#linear-gradient-2)"/>
+    </g>
+    <circle id="Circle_5" data-name="Circle 5" cx="109" cy="109" r="109" transform="translate(251 292)" fill="url(#linear-gradient-2)"/>
+    <circle id="Circle_5-2" data-name="Circle 5" cx="109" cy="109" r="109" transform="translate(-109 672)" fill="url(#linear-gradient-2)"/>
+    <circle id="Circle_1" data-name="Circle 1" cx="125" cy="125" r="125" transform="translate(-105 -69)" fill="url(#linear-gradient-2)"/>
+    <circle id="Circle_3" data-name="Circle 3" cx="27.5" cy="27.5" r="27.5" transform="translate(118 29)" fill="url(#linear-gradient-2)"/>
+    <g id="Group_9507" data-name="Group 9507" transform="translate(7 3)">
+      <g id="Group_9315" data-name="Group 9315" transform="translate(-6 49)">
+        <text id="Foody" transform="translate(193.5 412)" fill="#fff" stroke="#fff" stroke-width="2" font-size="45" font-family="Pristina-Regular, Pristina" letter-spacing="0.009em"><tspan x="-90.796" y="0">My Recipes</tspan></text>
+      </g>
+      <path id="chef_icon" d="M120.936,24.93a29.153,29.153,0,0,0-11.788,2.5,35.689,35.689,0,0,0-52.348,0A29.025,29.025,0,1,0,37.667,82.035l7.362,43.549v22.138a2.233,2.233,0,0,0,2.233,2.233H118.7a2.233,2.233,0,0,0,2.233-2.233V125.584L128.3,82.035a29.028,29.028,0,0,0-7.362-57.1Zm-4.465,120.56H49.493V127.629h66.978ZM125.9,78.011a2.233,2.233,0,0,0-1.753,1.814l-7.326,43.338H103.241L105.3,94.3h0c0-.053.008-.105.008-.159a2.233,2.233,0,0,0-4.457-.159h0l-2.085,29.182H85.215V98.605a2.233,2.233,0,0,0-4.465,0v24.558H67.2L65.116,93.981h0a2.233,2.233,0,0,0-4.457.159c0,.054,0,.106.008.159h0l2.062,28.865H49.148L41.822,79.826a2.233,2.233,0,0,0-1.753-1.814A24.561,24.561,0,1,1,69.587,53.954a2.233,2.233,0,0,0,4.465,0,29.022,29.022,0,0,0-13.19-24.312,31.261,31.261,0,0,1,52.253,13.743,2.232,2.232,0,1,0,4.3-1.188,35.423,35.423,0,0,0-5.325-11.161,24.312,24.312,0,0,1,8.842-1.64A24.561,24.561,0,0,1,125.9,78.011Z" transform="translate(97.516 264.045)" fill="#fff"/>
+    </g>
+    <g id="Circle-2" data-name="Circle" transform="translate(-174 164)">
+      <circle id="Circle_2-2" data-name="Circle 2" cx="18.5" cy="18.5" r="18.5" transform="translate(212 152)" fill="url(#linear-gradient-2)"/>
+    </g>
+  </g>
+</svg>
